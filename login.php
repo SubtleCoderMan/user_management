@@ -41,7 +41,7 @@ if(count($_POST) > 0){
                 echo  __LINE__.'<br>';print_r($_SESSION['id']);
                 echo  __LINE__.'<br>';print_r($_SESSION);
                 echo  __LINE__.'<br>';//header('Location: user.php');
-                header('Location: test.php');
+                header('Location: user.php');
                 //var_dump($printed);
                 //break;
                 exit();
