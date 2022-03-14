@@ -42,7 +42,8 @@ here you can see that the log in worked. it's not much but it'll do
 ## DBInfo
 Here you fill in the DB name, password, etc. every page runs this
 
-##
+## styles.css
+just your basic CSS file, not much going on
 
 That's about it for this webpage, thanks for looking at it.
 **-CoderMan**
